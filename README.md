@@ -16,9 +16,6 @@ Follow me on Github: https://github.com/dcaayushd
 
 ## NIC ASIA CLONE
 
-!DEMO of NIC ASIA BANK Clone
-<img height="480px" src="screenshots/one.gif">
+Login Screen of NIC ASIA BANK Clone
 
-!Login Screen of NIC ASIA App
 <img height="480px" src="screenshots/applogin.png">
-# NICASIABANKCLONE
