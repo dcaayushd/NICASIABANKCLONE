@@ -16,7 +16,7 @@ Follow me on Twitter: ![Link](https://x.com/dcaayushd)
 
 ## NIC ASIA CLONE
 
-![Demo](<img height="480px" src="screenshots/applogin.gif">)
+![Demo](<img height="480px" src="screenshots/appdemo.gif">)
 
 Login Screen of NIC ASIA BANK Clone
 
