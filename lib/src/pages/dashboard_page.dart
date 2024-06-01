@@ -12,6 +12,7 @@ class Dashboard extends StatelessWidget {
   Widget build(BuildContext context) {
     Size deviceSize = MediaQuery.of(context).size;
     return Scaffold(
+      backgroundColor: Colors.white,
       drawer: Drawer(
         child: Column(
           children: <Widget>[
@@ -28,6 +29,7 @@ class Dashboard extends StatelessWidget {
             height: deviceSize.height * 0.1,
           ),
           Container(
+            // color: primaryColor,
             margin: EdgeInsets.symmetric(
               horizontal: deviceSize.width * 0.03,
             ),
@@ -161,6 +163,7 @@ class Dashboard extends StatelessWidget {
 
   AppBar buildAppBar() {
     return AppBar(
+      backgroundColor: primaryColor,
       elevation: 0.0,
       // centerTitle: true,
       title: Row(

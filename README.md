@@ -8,17 +8,16 @@ This UI sample is taken from the NIC ASIA Bank app from the Google Play Store.
 
 ## For More UI Challenges  
 
-Follow me on Github: https://github.com/dcaayushd  
+Follow me on Twitter: ![Link](https://x.com/dcaayushd)  
 
-### What's Implemented
+## What's Implemented
 
 - Responsive UI
 
 ## NIC ASIA CLONE
 
-<img height="480px" src="screenshots/applogin.gif">
-
+![Demo](<img height="480px" src="screenshots/applogin.gif">)
 
 Login Screen of NIC ASIA BANK Clone
 
-<img height="480px" src="screenshots/applogin.png">
+![UI](<img height="480px" src="screenshots/applogin.png">)

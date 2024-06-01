@@ -14,6 +14,7 @@ class Transaction extends StatelessWidget {
     return Padding(
       padding: const EdgeInsets.only(bottom: 15.0),
       child: Material(
+        color: primaryColorLight,
         borderRadius: const BorderRadius.all(Radius.circular(8.0)),
         elevation: 3.0,
         child: ClipRRect(

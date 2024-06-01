@@ -9,6 +9,7 @@ class LastTransactions extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+
     Size deviceSize = MediaQuery.of(context).size;
     return Column(
       mainAxisSize: MainAxisSize.min,
@@ -24,11 +25,9 @@ class LastTransactions extends StatelessWidget {
         ),
         Flexible(
           child: SizedBox(
-            // color: Colors.red,
             height: deviceSize.height * 0.3,
             child: ListView.builder(
               shrinkWrap: true,
-              // physics: NeverScrollableScrollPhysics(),
               physics: const BouncingScrollPhysics(),
               itemCount: transactions.length,
               itemBuilder: (context, int index) => Transaction(
