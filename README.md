@@ -16,7 +16,9 @@ Welcome to the NIC ASIA Bank Clone App, a Flutter UI challenge to replicate the 
 
 ## 📱 DEMO/Screenshots
 
-![Demo](screenshots/appdemo.gif)
+<p align="center">
+  <img src="screenshots/appdemo.gif" height="480px">
+</p>
 
 ### Login Screen
 
@@ -45,15 +47,16 @@ To get a local copy up and running, follow these steps.
 
 3. Install dependencies:
 
-  ```sh
-  flutter pub get
+   ```sh
+   flutter pub get
 
 4. Run the app:
 
-  ```sh
-  flutter run
+   ```sh
+   flutter run
 
 ## 🏆 Credits
+
 This UI sample is taken from the NIC ASIA Bank app available on the Google Play Store.
 
 ## 👨‍💻 Author
