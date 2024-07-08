@@ -17,7 +17,7 @@ Welcome to the NIC ASIA Bank Clone App, a Flutter UI challenge to replicate the 
 ## 📱 DEMO/Screenshots
 
 <p align="center">
-  <img src="screenshots/appdemo.gif" height="480px">
+  <img src="screenshots/appdemo.gif" height="890px" width= "440">
 </p>
 
 ### Login Screen
@@ -38,7 +38,7 @@ To get a local copy up and running, follow these steps.
 1. Clone the repo:
 
    ```sh
-   git clone https://github.com/your-username/nic-asia-bank-clone.git
+   https://github.com/dcaayushd/NICASIABANKCLONE.git
 
 2. Navigate to the project directory:
 
